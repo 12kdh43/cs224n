@@ -5,7 +5,7 @@ Following the course of Stanford [CS224n: Natural Language Processing with Deep 
 - [1. Exploring Word Vectors](https://github.com/12kdh43/cs224n/blob/master/a1/exploring_word_vectors.ipynb)
 ### Assignment 2: Derivatives and implementation of word2vec algorithm
 - [1. Written: Understanding word2vec](https://github.com/12kdh43/cs224n/blob/master/a2/a2_written.ipynb)  
-- [2. Coding: Implementing word2vec]  
+- 2. Coding: Implementing word2vec - [word2vec.py](https://github.com/12kdh43/cs224n/blob/master/a2/word2vec.py) / [sgd.py](https://github.com/12kdh43/cs224n/blob/master/a2/sgd.py)  
 ### Assignment 3: Dependency parsing and neural network foundations
 ### Assignment 4: Neural Machine Translation with sequence-to-sequence, attention, and subwords
 ### Assignment 5: Self-supervised learning and fine-tuning with Transformers
